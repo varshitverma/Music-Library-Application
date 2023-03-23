@@ -1,4 +1,4 @@
-Given five files,
+File Structure,
 
 - `SongController.java` 
 - `SongRepository.java`
@@ -23,7 +23,7 @@ And also given a database file `songs` which contains `playlist` table.
     Use only `playlist` as a table name in your code while writing queries and while using in model class.
 </MultiLineNote>
 
-### Completion Instructions
+### Instructions
 
 - `Song.java`: The `Song` class should contain the following attributes.
 
